@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+#navcolor{
+	background-color: black;
+}
+#links a{
+	color:#c6c7ca;
+	font-size: 18px
+}
+#left{
+  margin-left:120px;
+}
+#head
+{
+	text-size:8px;
+	color:red;
+	font-style: italic;
+	font-family:Times New Roman;
+}
+.dropdown-menu
+{
+
+	background:black;
+}
+.dropdown:hover .dropdown-content 
+{
+	display: block;
+}

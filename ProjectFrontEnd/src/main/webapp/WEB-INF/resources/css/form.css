@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+#container
+{
+	width:600px;
+}
+input[type=submit]
+{
+	background-color:skyblue;
+	font-family:Clarendon BT;
+	 color: black;
+	
+	 
+}
+
+h1
+{
+	font-family:Clarendon BT;
+	text-shadow: 2px 2px white;
+}
+h5
+{
+	font-family:Georgia;
+	font-weight:bold;
+	
+}
